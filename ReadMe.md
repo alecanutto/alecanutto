@@ -4,6 +4,22 @@
 
 <br/>
 
+<p align="center"> 
+ <a href="https://github.com/alecanutto" alt="alessandra canuto github stats">
+   <img src="https://img.shields.io/badge/-alecanutto-%23181717?style=flat-square&logo=github" />
+ </a>
+ <a href="https://www.linkedin.com/in/alessandra-canuto-b94677106/" alt="alessandra canuto linkedin profile">
+   <img src="https://img.shields.io/badge/-alessandracanuto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandra-canuto-b94677106" />
+ </a>
+ <a href="https://www.instagram.com/alessandracanutto" alt="alessandra canuto instagram profile">
+   <img src="https://img.shields.io/badge/alessandracanuto-%23E4405F.svg?logo=Instagram&logoColor=white&link=https://www.instagram.com/alessandracanutto" />
+ </a>
+
+</p>
+
+<hr/>
+<br/>
+
 - 🌱 I'm currently studying about Software Architecture
 
 - 👨‍💻 I started with desktop application development
@@ -11,6 +27,7 @@
 - ⚡ Fun fact: I prefer to program drinking beer instead of drinking coffee 😂
 
 <br/>
+<hr/>
 
 <p align="center"> 
  <strong>
